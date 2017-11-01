@@ -1,0 +1,22 @@
+{
+  "name": "nodedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tujiaw/nodedemo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tujiaw/nodedemo/issues"
+  },
+  "homepage": "https://github.com/tujiaw/nodedemo#readme",
+  "dependencies": {
+    "net-ping": "^1.2.1"
+  }
+}
